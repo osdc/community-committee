@@ -18,7 +18,9 @@ Initiatives are projects that the Community Committee and the broader community 
 
 ### Active Initiatives
 
-`// TODO: Add active initiatives`
+#### 101 Meetups
+A series of meetups for the uninitiated to be ushered into the fun world of Open Source.   
+*Eg.* Linux 101, Git 101, JS 101.
 
 ### Proposed Initiatives
 
