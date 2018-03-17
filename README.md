@@ -30,7 +30,9 @@ Projects are the current open-source projects being actively developed or consid
 
 ### Active Projects
 
-`// TODO: Add active projects`
+| Project | Maintainer                                       | Links                   |
+|---------|--------------------------------------------------|-------------------------|
+| Website | [@saranshbarua](https://github.com/saranshbarua) | https://osdc.github.io/ |
 
 ### Proposed Projects
 
