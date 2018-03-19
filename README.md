@@ -18,9 +18,9 @@ Initiatives are projects that the Community Committee and the broader community 
 
 ### Active Initiatives
 
-| Project | Maintainer                                       | Links                   |
-|---------|--------------------------------------------------|-------------------------|
-| Website | [@saranshbarua](https://github.com/saranshbarua) | https://osdc.github.io/ |
+| Initiative  | Maintainer                                       |
+|-------------|--------------------------------------------------|
+| Meetups 101 | [@V1shvesh](https://github.com/V1shvesh)         |
 
 
 ### Proposed Initiatives
