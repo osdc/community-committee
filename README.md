@@ -18,7 +18,7 @@ Initiatives are projects that the Community Committee and the broader community 
 
 ### Active Initiatives
 
-| Initiative  | Maintainer                                       |
+| Initiative  | Supervisor                                       |
 |-------------|--------------------------------------------------|
 | Meetups 101 | [@V1shvesh](https://github.com/V1shvesh)         |
 
