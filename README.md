@@ -21,6 +21,7 @@ Initiatives are projects that the Community Committee and the broader community 
 | Initiative  | Supervisor                                       |
 |-------------|--------------------------------------------------|
 | Meetups 101 | [@V1shvesh](https://github.com/V1shvesh)         |
+| Weekly Blog | [@jiteshpabla](https://github.com/jiteshpabla)   |
 
 
 ### Proposed Initiatives
@@ -41,4 +42,5 @@ Projects are the current open-source projects being actively developed or consid
 
 ### Proposed Projects
 
+1. Redesign the osdc blog, and get it running.
 `// TODO: Propose some projects`
