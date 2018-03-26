@@ -25,7 +25,9 @@ Initiatives are projects that the Community Committee and the broader community 
 
 ### Proposed Initiatives
 
-`// TODO: Propose some initiatives`
+1. Medium Publication / Blog
+2. Bi-weekly meetups
+3. Dedicated chatrooms/help forums
 
 ## Projects
 
