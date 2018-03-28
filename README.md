@@ -42,4 +42,4 @@ Projects are the current open-source projects being actively developed or consid
 
 ### Proposed Projects
 
-1. Redesign the [osdc blog](https://github.com/osdc/new-blog), and get it running.
+1. Redesign the osdc blog, and get it running.
