@@ -18,16 +18,16 @@ Initiatives are projects that the Community Committee and the broader community 
 
 ### Active Initiatives
 
-| Initiative  | Supervisor                                       |
-|-------------|--------------------------------------------------|
-| Meetups 101 | [@V1shvesh](https://github.com/V1shvesh)         |
-| Weekly Blog | [@jiteshpabla](https://github.com/jiteshpabla)   |
+| Initiative        | Supervisor                                       |
+|-------------------|--------------------------------------------------|
+| Meetups 101       | [@V1shvesh](https://github.com/V1shvesh)         |
+| Weekly Blog       | [@jiteshpabla](https://github.com/jiteshpabla)   |
+| Bi-weekly meetups | [@darkHarry](https://github.com/darkHarry)       |
 
 
 ### Proposed Initiatives
 
-1. Bi-weekly meetups
-2. Dedicated chatrooms/help forums
+1. Dedicated chatrooms/help forums
 
 ## Projects
 
