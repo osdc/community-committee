@@ -10,7 +10,11 @@ The Community Committee is tasked with further building out the OSDC community. 
 
 ## Current Members
 
-`// TODO: Add current members`
+* [@V1shvesh](https://github.com/V1shvesh) – S Vishvesh
+* [@darkHarry](https://github.com/darkHarry) – Darsh Mecwan
+* [@sudeepam97](https://github.com/sudeepam97) – Sudeepam Pandey
+* [@vaibhavk](https://github.com/vaibhavk) – Vaibhav Kaushik
+* [@ryzokuken](https://github.com/ryzokuken) – Ujjwal Sharma
 
 ## Initiatives
 
@@ -18,11 +22,12 @@ Initiatives are projects that the Community Committee and the broader community 
 
 ### Active Initiatives
 
-| Initiative        | Supervisor                                       |
-|-------------------|--------------------------------------------------|
-| Meetups 101       | [@V1shvesh](https://github.com/V1shvesh)         |
-| Weekly Blog       | [@jiteshpabla](https://github.com/jiteshpabla)   |
-| Bi-weekly meetups | [@darkHarry](https://github.com/darkHarry)       |
+| Initiative | Champions |
+|---|---|
+| Meetups | [@V1shvesh](https://github.com/V1shvesh) [@darkHarry](https://github.com/darkHarry) [@sudeepam97](https://github.com/sudeepam97) |
+| Hack Nights | [@darkHarry](https://github.com/darkHarry) [@sudeepam97](https://github.com/sudeepam97) |
+| Blog | [@vaibhavk](https://github.com/vaibhavk)   |
+| Evangelism | [@ryzokuken](https://github.com/ryzokuken) |
 
 
 ### Proposed Initiatives
