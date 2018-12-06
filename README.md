@@ -49,7 +49,7 @@ Projects are the current open-source projects being actively developed or consid
 
 `// TODO: Propose more projects`
 
-### Code of Conduct
+## Code of Conduct
 
 Open Source Developers Community(OSDC) follows the [Contributor Covenant Code Of Conduct](https://www.contributor-covenant.org/version/1/4/code-of-conduct), version 1.4 as its official Code of Conduct. 
 
