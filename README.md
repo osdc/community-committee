@@ -48,3 +48,9 @@ Projects are the current open-source projects being actively developed or consid
 ### Proposed Projects
 
 `// TODO: Propose more projects`
+
+### Code of Conduct
+
+Open Source Developers Community(OSDC) follows the [CONTRIBUTOR COVENANT CODE OF CONDUCT](https://www.contributor-covenant.org/version/1/4/code-of-conduct), version 1.4 as its official Code of Conduct. 
+
+The Contributor Covenant was created by [Coraline Ada Ehmke](https://where.coraline.codes/) in 2014 and is released under the [CC BY 4.0 License](https://github.com/ContributorCovenant/contributor_covenant/blob/release/LICENSE.md).
